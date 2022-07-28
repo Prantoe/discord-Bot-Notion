@@ -1,0 +1,22 @@
+{
+  "name": "newbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pranto",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.0",
+    "@notionhq/client": "^0.4.4",
+    "api": "^4.5.1",
+    "discord.js": "^14.0.3",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.20.0"
+  },
+  "keywords": [],
+  "description": ""
+}
